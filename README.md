@@ -29,10 +29,10 @@ Create React components and functionality for managing Products:
 *List Products:*
 - Create a component to display a list of all available products in the e-commerce platform, providing essential product information.
 
-*Create Product Form: *
+*Create Product Form:*
 - Develop a form component for adding a new product to the e-commerce database. Capture essential product details, such as the product name and price.
 
-*Read Product Details: *
+*Read Product Details:*
 - Create a component to display product details retrieved from the backend based on the product's unique identifier (ID).
 
 *Update Product Form:*
